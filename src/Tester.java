@@ -6,6 +6,12 @@ public class Tester {
        milkyway.moon="2";
        milkyway.earth="3";
 
+              sun solana=new sun();
+              solana.heat="100";
+              solana.temp="900";
+              solana.raduis="200km";
+
+
 
     }
 }
