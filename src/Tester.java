@@ -9,7 +9,7 @@ public class Tester {
               sun solana=new sun();
               solana.heat="100";
               solana.temp="900";
-              solana.raduis="200km"c;
+              solana.raduis="200km";
 
 
 
