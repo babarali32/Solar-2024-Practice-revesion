@@ -11,7 +11,9 @@ public class Tester {
               solana.temp="900";
               solana.raduis="200km";
 
-
+        planet02 obj2=new planet02();
+        obj2.age="20";
+        obj2.year="200";
 
     }
 }
