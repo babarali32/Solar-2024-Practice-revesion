@@ -13,6 +13,13 @@ public class Tester {
 
 
 
+
+
+
+              moon2222 obj0101=new moon2222();
+              obj0101.radius="mr perfect";
+              obj0101.marsmoon="no man";
+
     }
 }
 
