@@ -14,7 +14,9 @@ public class Tester {
         obj.color="green";
         obj.size="4343m";
 
-
+        moon11111 moon=new moon11111();
+        moon.color="light";
+        moon.distance="38400km";
     }
 }
 
