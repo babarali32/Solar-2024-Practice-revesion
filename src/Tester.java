@@ -11,7 +11,8 @@ public class Tester {
               solana.temp="900";
               solana.raduis="200km";
 
-
+///////////////////////////
+        //////////////////////////////
 
     }
 }
